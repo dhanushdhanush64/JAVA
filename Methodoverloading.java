@@ -1,5 +1,5 @@
 import java.util.*;
-class Main{
+class Methodoverloading{
     static int mynum(int x,int y){
         return x*y;
         
