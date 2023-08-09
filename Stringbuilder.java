@@ -1,5 +1,5 @@
 import java.util.*;
-class Main{
+class Stringbuilder{
     public static void main(String args[]){
         StringBuilder sb=new StringBuilder("TONY");
         System.out.println(sb);
