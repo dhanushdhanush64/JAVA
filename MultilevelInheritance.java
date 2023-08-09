@@ -8,7 +8,7 @@ class TotalSalary extends Salary{
 class YearlySalary extends TotalSalary{
     int yearlysalary=100000;
 }
-public class Main{
+public class MultilevelInheritance{
     public static void main(String args[]){
         YearlySalary t1=new YearlySalary();
         t1.hike=10000;
